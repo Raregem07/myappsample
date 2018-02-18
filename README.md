@@ -1,3 +1,3 @@
-#myapp
+#myApp
 
 This is myapp
